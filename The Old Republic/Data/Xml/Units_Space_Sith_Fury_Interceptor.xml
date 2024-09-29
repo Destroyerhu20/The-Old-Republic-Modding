@@ -5,7 +5,7 @@
 
 
 <!-- Sith Fury Interceptor WIP -->
-
+<!-- Contains only the Crusader Gunship as a template -->
 
 	<SpaceUnit Name="Crusader_Gunship">
 		<Text_ID>TEXT_UNIT_CRUSADER_GUNSHIP</Text_ID>
